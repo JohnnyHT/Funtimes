@@ -1,0 +1,4 @@
+name: Spleef
+version: '1.0-SNAPSHOT'
+main: spleef.game.Game
+api-version: 1.19

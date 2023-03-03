@@ -1,0 +1,4 @@
+name: Spleef
+version: '${project.version}'
+main: spleef.game.Game
+api-version: 1.19
